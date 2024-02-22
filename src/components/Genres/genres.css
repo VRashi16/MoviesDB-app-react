@@ -1,0 +1,1 @@
+.genres {display: flex;flex-wrap: wrap;align-items: center;gap: 5px 10px;}.genre {color: var(--white);font-size: var(--normal-fs);transition: var(--transition-);}.genre:hover{color: var(--blue);}
